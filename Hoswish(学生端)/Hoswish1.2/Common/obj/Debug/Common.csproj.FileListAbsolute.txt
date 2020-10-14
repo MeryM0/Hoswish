@@ -1,0 +1,5 @@
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Common\bin\Debug\Common.dll
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Common\bin\Debug\Common.pdb
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Common\obj\Debug\Common.dll
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Common\obj\Debug\Common.pdb
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

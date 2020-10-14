@@ -1,0 +1,61 @@
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.exe.config
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.exe
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.pdb
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csprojResolveAssemblyReference.cache
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.Form1.resources
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form1.resources
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form2.resources
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.Properties.Resources.resources
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csproj.GenerateResource.Cache
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.exe
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.pdb
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form3.resources
+D:\code for cs\cs作业\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form4.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.exe.config
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.exe
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.pdb
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.FormMain.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.Hosmes.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.Login.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form1.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form2.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form3.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form4.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.Properties.Resources.resources
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csproj.GenerateResource.Cache
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.exe
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.pdb
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\BLL.dll
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\SQLDAL.dll
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\BLL.pdb
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\SQLDAL.pdb
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Model.dll
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Model.pdb
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\MySql.Data.dll
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csprojAssemblyReference.cache
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csproj.CoreCompileInputs.cache
+D:\code for cs\cs作业\Hoswish\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csproj.CopyComplete
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.exe.config
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.exe
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Hoswish1.2.pdb
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\BLL.dll
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Model.dll
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\SQLDAL.dll
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\MySql.Data.dll
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\BLL.pdb
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\Model.pdb
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\bin\Debug\SQLDAL.pdb
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csprojAssemblyReference.cache
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.FormMain.resources
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.Hosmes.resources
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.Login.resources
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form1.resources
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form2.resources
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form3.resources
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.panel.Form4.resources
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1._2.Properties.Resources.resources
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csproj.GenerateResource.cache
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csproj.CoreCompileInputs.cache
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.csproj.CopyComplete
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.exe
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(学生端)\Hoswish1.2\Hoswish1.2\obj\Debug\Hoswish1.2.pdb

@@ -1,0 +1,12 @@
+D:\code for cs\cs作业\Hoswish\Hoswish(教师端)\Hoswish1.3\Model\bin\Debug\Model.dll
+D:\code for cs\cs作业\Hoswish\Hoswish(教师端)\Hoswish1.3\Model\bin\Debug\Model.pdb
+D:\code for cs\cs作业\Hoswish\Hoswish(教师端)\Hoswish1.3\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\code for cs\cs作业\Hoswish\Hoswish(教师端)\Hoswish1.3\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\code for cs\cs作业\Hoswish\Hoswish(教师端)\Hoswish1.3\Model\obj\Debug\Model.dll
+D:\code for cs\cs作业\Hoswish\Hoswish(教师端)\Hoswish1.3\Model\obj\Debug\Model.pdb
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(教师端)\Hoswish1.3\Model\bin\Debug\Model.dll
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(教师端)\Hoswish1.3\Model\bin\Debug\Model.pdb
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(教师端)\Hoswish1.3\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(教师端)\Hoswish1.3\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(教师端)\Hoswish1.3\Model\obj\Debug\Model.dll
+D:\code-for-cs\cs实践\Hoswish最终版\Hoswish(教师端)\Hoswish1.3\Model\obj\Debug\Model.pdb
